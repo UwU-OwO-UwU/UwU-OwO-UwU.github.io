@@ -66,5 +66,5 @@ title: danyisill.github.io
 - Horoscope: Leo
 - Pronouns: he/him, they/them
 - Sexuality: autosexual
-- I Live In: Neuilly-sur-Marne, France
+- I Live In: Paris, France
 - Romantic Orientation: demiromantic
