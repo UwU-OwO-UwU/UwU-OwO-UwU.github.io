@@ -49,7 +49,7 @@ title: danyisill.github.io
 - [Lovejoy Programming Language](https://lovejoy-lang.github.io/)
 - # Inventory:
 - Root Beer
-- iPhone 8 16gb
+- iPhone XS Max
 - Nintendo DSi LL
 - Karelia Filtro
 - Monster Energy Mango Loco
@@ -58,12 +58,13 @@ title: danyisill.github.io
 - English: C2
 - Russian: N
 - Greek: B1
-- Spanish: A1
+- Spanish: A2
+- French: A1
 ^
 - Age: 23
 - Gender: agender/genderfluid male
 - Horoscope: Leo
 - Pronouns: he/him, they/them
 - Sexuality: autosexual
-- I Live In: Athens, Attica, Greece
+- I Live In: Neuilly-sur-Marne, France
 - Romantic Orientation: demiromantic
