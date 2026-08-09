@@ -83,7 +83,7 @@ body{
 }
 #money{
 	width: 14vmin;
-	top: 80vmin;
+	top: 75vmin;
 	text-align: right;
 	padding: 2vmin
 }
@@ -91,10 +91,7 @@ body{
 	height: 3vmin
 }
 #lastfm{
-	top: 34vmin;
-}
-#lastfm img{
-	margin-bottom: -1vmin;
+	top: 33vmin;
 }
 #rootb, #rootc{
 	width: 130vmin;
@@ -160,7 +157,7 @@ body{
 }
 #money{
 	width: 14vmin;
-	top: calc(226px + 52vmin);
+	top: calc(226px + 51vmin);
 	text-align: right;
 	padding: 2vmin;
 	user-select: none;
@@ -169,10 +166,7 @@ body{
 	height: 5vmin
 }
 #lastfm{
-	top: 48vmin;
-}
-#lastfm img{
-	margin-bottom: -3vmin;
+	top: 47vmin;
 }
 #rootc{
 	width: 82vmin;
@@ -203,13 +197,6 @@ ul li{
 ul{
 	padding-bottom: auto
 }
-#rootc > div:nth-of-type(7) li:nth-child(1){order: 1}
-#rootc > div:nth-of-type(7) li:nth-child(3){order: 2}
-#rootc > div:nth-of-type(7) li:nth-child(5){order: 3}
-#rootc > div:nth-of-type(7) li:nth-child(2){order: 4}
-#rootc > div:nth-of-type(7) li:nth-child(4){order: 5}
-#rootc > div:nth-of-type(7) li:nth-child(6){order: 6}
-#rootc > div:nth-of-type(7) li:nth-child(7){order: 7}
 }
 
 
