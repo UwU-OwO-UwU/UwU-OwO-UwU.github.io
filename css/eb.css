@@ -83,12 +83,18 @@ body{
 }
 #money{
 	width: 14vmin;
-	top: 34vmin;
+	top: 80vmin;
 	text-align: right;
 	padding: 2vmin
 }
 #money img{
 	height: 3vmin
+}
+#lastfm{
+	top: 34vmin;
+}
+#lastfm img{
+	margin-bottom: -1vmin;
 }
 #rootb, #rootc{
 	width: 130vmin;
@@ -160,13 +166,19 @@ body{
 }
 #money{
 	width: 14vmin;
-	top: 43vmin;
+	top: calc(226px + 52vmin);
 	text-align: right;
 	padding: 2vmin;
 	user-select: none;
 }
 #money img{
 	height: 5vmin
+}
+#lastfm{
+	top: 48vmin;
+}
+#lastfm img{
+	margin-bottom: -3vmin;
 }
 #rootc{
 	width: 82vmin;
