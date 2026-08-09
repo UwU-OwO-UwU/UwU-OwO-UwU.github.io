@@ -8,10 +8,10 @@ title: danyisill.github.io
 [Talk to]() [PSI]() [Check]() [Goods]() [Equip]() [Status]()
 
 - # My Interests:
+- Continental Philosophy
 - Furry
 - Postmodernism
 - Synthetic Drugs
-- Continental Philosophy
 - Communism
 - Cooking
 - Pharmacology
@@ -35,13 +35,13 @@ title: danyisill.github.io
 - CPTSD
 - Visual Snow
 ^
-- [RateYourMusic - ~mudkip77](https://rateyourmusic.com/~mudkip77)
 - [Reddit - throwawayylmfaowo](https://old.reddit.com/u/throwawayylmfaowo)
 - [Twitter - danyisill](https://twitter.com/danyisill)
 - [Discord - dannv3.0_53295](https://discordapp.com/users/1369657496654053408)
-- [GitHub - UwU-OwO-UwU](https://github.com/UwU-OwO-UwU)
 - [FurAffinity - danyisill](https://furaffinity.net/user/danyisill)
+- [GitHub - UwU-OwO-UwU](https://github.com/UwU-OwO-UwU)
 - [last.fm - danyisill](https://last.fm/user/danyisill)
+- [RateYourMusic - ~mudkip77](https://rateyourmusic.com/~mudkip77)
 ^
 - # Projects:
 - [Simp'O'Matic, a multipurpose Discord bot](https://github.com/Demonstrandum/Simp-O-Matic)
@@ -52,7 +52,7 @@ title: danyisill.github.io
 - iPhone XS Max
 - Nintendo DSi LL
 - Karelia Filtro
-- Monster Energy Mango Loco
+- Perrier
 ^
 - # Languages Spoken:
 - English: C2
