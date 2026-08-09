@@ -121,14 +121,8 @@ body{
 }
 ul li{
 	display: inline-block;
-	min-width: 41%;
+	min-width: 40%;
 	min-height: 5vmin
-}
-#rootc > div:nth-of-type(7) ul li:nth-child(even){
-	min-width: 62%
-}
-#rootc > div:nth-of-type(7) ul li{
-	min-width: 20%
 }
 #rootc > p{
 	width: 29vmin;
