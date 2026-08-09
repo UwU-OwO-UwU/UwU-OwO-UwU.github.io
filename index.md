@@ -65,6 +65,6 @@ title: danyisill.github.io
 - Gender: agender/genderfluid male
 - Horoscope: Leo
 - Pronouns: he/him, they/them
+- I Live In: Paris
 - Sexuality: autosexual
-- I Live In: Paris, France
-- Romantic Orientation: demiromantic
+- Romantic Orientation: frayromantic
