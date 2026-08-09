@@ -61,10 +61,10 @@ title: danyisill.github.io
 - Spanish: A2
 - French: A1
 ^
-- Age: 23
-- Gender: agender/genderfluid male
-- Horoscope: Leo
 - Pronouns: he/him, they/them
+- Age: 23
+- Gender: genderfluid male
+- Horoscope: Leo
 - I Live In: Paris
 - Sexuality: autosexual
 - Romantic Orientation: frayromantic
