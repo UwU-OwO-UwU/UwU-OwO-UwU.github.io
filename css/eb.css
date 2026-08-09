@@ -91,7 +91,7 @@ body{
 	height: 3vmin;
 }
 #lastfm{
-	top: 33vmin;
+	top: 35vmin;
 }
 #rootb, #rootc{
 	width: 130vmin;
@@ -166,7 +166,7 @@ body{
 	height: 5vmin
 }
 #lastfm{
-	top: 47vmin;
+	top: 49vmin;
 }
 #rootc{
 	width: 82vmin;
@@ -211,4 +211,8 @@ ul{
 }
 .title{
 	width: 100%
+}
+
+#money{
+	display: none;
 }
