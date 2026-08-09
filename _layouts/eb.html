@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+xf<!DOCTYPE html>
 <html>
 <head>
 	<title>{{ page.title }}</title>
@@ -31,7 +31,8 @@
 		e.removeAttribute("href");
 		e.addEventListener("click", () => {
 			let cur = document.querySelector(".so");
-			let nxt = document.getElementById("rootc").children[i + 2];
+			let panels = document.querySelectorAll("#rootc > div.sub");
+			let nxt = panels[i];
 			if(cur){
 				cur.classList.remove("so")
 			}
