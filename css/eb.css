@@ -83,12 +83,12 @@ body{
 }
 #money{
 	width: 14vmin;
-	top: 75vmin;
+	calc(226px + 36vmin);
 	text-align: right;
 	padding: 2vmin
 }
 #money img{
-	height: 3vmin
+	height: 3vmin;
 }
 #lastfm{
 	top: 33vmin;
